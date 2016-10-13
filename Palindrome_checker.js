@@ -1,4 +1,4 @@
-Check for palindromes with for loop
+// Check for palindromes with for loop
 
 /* Half-indexing (length / 2) has benefits when processing large strings. 
 We check the end from each part and divide the number of iterations inside the FOR loop by two. */
